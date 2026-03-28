@@ -84,15 +84,6 @@ python app.py
 
 ---
 
-## 📸 Screenshots
-
-(Add your screenshots here)
-
-Example:
-![App](screenshots/home.png)
-
----
-
 ## 🔄 Workflow
 
 1. User inputs financial data
@@ -100,6 +91,16 @@ Example:
 3. ML model analyzes patterns
 4. System generates recommendations
 5. Results displayed to user
+
+---
+
+## 📌 Use Case
+
+This project can be used by individuals to:
+
+* Understand financial decisions
+* Get AI-based recommendations
+* Improve financial literacy
 
 ---
 
@@ -124,6 +125,12 @@ Example:
 * Contributed to **development and implementation**
 * Worked on **feature integration & logic building**
 * Assisted in designing **AI-based financial insights**
+
+---
+
+## 🎯 Real-World Impact
+
+Helps users make better financial decisions using AI-driven insights.
 
 ---
 
